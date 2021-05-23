@@ -1,0 +1,4 @@
+Simulação da janela dinâmica em Python
+    - https://youtu.be/QJB3ZWoLPOY
+Simulação da janela Dinâmica no copeliassim
+    - https://youtu.be/0i_F0MhUTRg
